@@ -6,6 +6,7 @@ import lombok.Data;
 public class UserVO {
 
     int id;
-    int gender;
+    String gender;
     int age;
+    String name;
 }
